@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "yy",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "lzl",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.7",
+    "path": "^0.12.7",
+    "tsify": "^3.0.1",
+    "typescript": "^2.3.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
