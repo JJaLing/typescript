@@ -5,4 +5,4 @@ const ele = document.getElementById(divName)
 ele.innerText = sayHello(name)
 }
 
-showHello("greeting", "test")
+showHello("greeting", "ssssaabss")
